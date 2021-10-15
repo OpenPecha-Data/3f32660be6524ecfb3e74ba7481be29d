@@ -1,0 +1,164 @@
+id: 9463e2f8faab40089d2eacb5b116d0bc
+annotation_type: Segment
+revision: '00001'
+annotations:
+  d0709ca5f68d4d32b5ff791aea9ab883:
+    span:
+      start: 0
+      end: 27
+    metadata: {}
+  509244b250974129bbd998b7065b2152:
+    span:
+      start: 29
+      end: 67
+    metadata: {}
+  3239d3b4646a4980a5eba5bbb486dd5e:
+    span:
+      start: 69
+      end: 210
+    metadata: {}
+  8d90c3bab6dc4f54bf3814cdabcb17ab:
+    span:
+      start: 212
+      end: 270
+    metadata: {}
+  79824e7a5a17465691a6114104e627d9:
+    span:
+      start: 272
+      end: 296
+    metadata: {}
+  6f8a217798a5475a93e95b1fa9bffe38:
+    span:
+      start: 298
+      end: 335
+    metadata: {}
+  3f089b278afe46d1a31c026a7d9728da:
+    span:
+      start: 337
+      end: 427
+    metadata: {}
+  0aab94ebfbe94865861c48efde71a113:
+    span:
+      start: 429
+      end: 545
+    metadata: {}
+  4e17498739d441ae86161fc495bd8671:
+    span:
+      start: 547
+      end: 581
+    metadata: {}
+  14f8a367c33a423c898a7a0f2a624a9b:
+    span:
+      start: 583
+      end: 631
+    metadata: {}
+  08d0ce7921e845939125444141439082:
+    span:
+      start: 633
+      end: 770
+    metadata: {}
+  df5cba1925834fc593460cc12a825b58:
+    span:
+      start: 772
+      end: 863
+    metadata: {}
+  c99372b0b2ac401e8120d8dcebb2147f:
+    span:
+      start: 865
+      end: 963
+    metadata: {}
+  7dba04154b01414383ef51ac546dc844:
+    span:
+      start: 965
+      end: 985
+    metadata: {}
+  3c7a133ff0ea40a69e41eccffafb5040:
+    span:
+      start: 987
+      end: 1201
+    metadata: {}
+  32dc2d62a6eb473f960c9f365af2a91a:
+    span:
+      start: 1203
+      end: 1206
+    metadata: {}
+  ec8d444ebda14d74a48322bc19836fc0:
+    span:
+      start: 1208
+      end: 1232
+    metadata: {}
+  537953ec130c4e1394edb827dd886200:
+    span:
+      start: 1234
+      end: 1261
+    metadata: {}
+  720bd0f0b2e5405d8a6bbf6c94faf42c:
+    span:
+      start: 1263
+      end: 1283
+    metadata: {}
+  7dad4b02ee544a48898adf3c0f0af342:
+    span:
+      start: 1285
+      end: 1395
+    metadata: {}
+  1da81f21a58148f88cf3c1359f383f26:
+    span:
+      start: 1397
+      end: 1428
+    metadata: {}
+  0731a3dcd77b469991dd84dc3fc411b5:
+    span:
+      start: 1430
+      end: 1454
+    metadata: {}
+  1874398e1fdd4f4a82094308ff05bba5:
+    span:
+      start: 1456
+      end: 1485
+    metadata: {}
+  fd3e052518c44f7cba681f956d88900d:
+    span:
+      start: 1487
+      end: 1552
+    metadata: {}
+  796519a3e50e4afda72a3e14af6c0d11:
+    span:
+      start: 1554
+      end: 1646
+    metadata: {}
+  9281f665bba14238b3e4f48ec4daa4e6:
+    span:
+      start: 1648
+      end: 1884
+    metadata: {}
+  5df071b7d0bb4729864b0b00714c4193:
+    span:
+      start: 1886
+      end: 1958
+    metadata: {}
+  75d7c80a30ca4a0088b33386db36af06:
+    span:
+      start: 1960
+      end: 2005
+    metadata: {}
+  5c17a61b7e2a42b386a034809ea4507f:
+    span:
+      start: 2007
+      end: 2047
+    metadata: {}
+  1c626552b5574f09b7311318a7f098a8:
+    span:
+      start: 2049
+      end: 2072
+    metadata: {}
+  e9983f11914a4395ab5df711c69b4d85:
+    span:
+      start: 2074
+      end: 2120
+    metadata: {}
+  f711efe85ea843ad8bbb390ba6bc1b0b:
+    span:
+      start: 2122
+      end: 2199
+    metadata: {}
